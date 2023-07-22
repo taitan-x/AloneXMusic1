@@ -2,8 +2,8 @@ import math
 
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-from aloneXMusic.utilities import config
-from aloneXMusic.modules.utils.formatters import time_to_seconds
+from AloneXMusic.utilities import config
+from AloneXMusic.modules.utils.formatters import time_to_seconds
 
 
 
