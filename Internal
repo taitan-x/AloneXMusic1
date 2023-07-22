@@ -10,6 +10,6 @@ OWNER_ID=
 SUPPORT_CHANNEL=https://t.me/AloneXBots
 SUPPORT_GROUP=https://t.me/AlonesHeaven
 UPSTREAM_REPO=https://github.com/AloneXBot/AloneXMusic
-UPSTREAM_BRANCH=alone
+UPSTREAM_BRANCH=aditya
 AUTO_DOWNLOADS_CLEAR=True
 
