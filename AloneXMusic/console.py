@@ -1,7 +1,7 @@
 import logging
 from logging.handlers import RotatingFileHandler
 
-from SankiMusic.utilities.config import LOG_FILE_NAME
+from AloneXMusic.utilities.config import LOG_FILE_NAME
 
 logging.basicConfig(
     level=logging.INFO,
